@@ -1,7 +1,7 @@
 # PCH-CFSC
 Code for paper [From Incomplete to Valuable: Partial Cross-modal Hashing via Coarse-to-Fine Semantic Completion]
 
-# Implementation Environment:
+# Implementation Environment
 * python 3.8
 * pytorch 1.9.0+cu111
 
